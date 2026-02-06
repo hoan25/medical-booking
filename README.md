@@ -1,7 +1,6 @@
 # Medical Booking - Hệ thống Đặt Lịch Khám Trực Tuyến
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 ##  Giới Thiệu
 
@@ -12,7 +11,6 @@
 - ✅ Giảm thời gian đặt lịch (< 2 phút)
 - ✅ Quản lý lịch khám cho bác sĩ và bệnh nhân
 - ✅ Nâng cao trải nghiệm người dùng (UX thân thiện)
-- ✅ Nâng cao tỉ lệ hẹn thành công (> 95%)
 
 ---
 
